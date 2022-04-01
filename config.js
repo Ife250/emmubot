@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['919656459062'] // Letakan nomor kamu disini
+global.owner = ['265889976968'] // Letakan nomor kamu disini
 global.mods = [] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -34,8 +34,8 @@ global.APIKeys = { // APIKey nya disini
 global.packname = 'Ammu-Sticker'
 global.author = 'Ammu'
 
-global.wait = '_*Please Wait..*_'
-global.eror = '_*Server Error*_'
+global.wait = '_*Please Wait kingsley on the process..*_'
+global.eror = '_*Server Error sad it happens*_'
 global.fla = 'https://ibb.co/jW31z7n'
 
 global.watermark = '© Ammu'
